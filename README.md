@@ -1,2 +1,2 @@
-# package
-A basic template for whenever I make a wally package
+# cframe-util
+A basic place for me to put cframe functions
